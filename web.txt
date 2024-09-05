@@ -3,3 +3,5 @@ version: 001
 
 
 Today i will learn about git.
+
+We wanna smoke so pi.
